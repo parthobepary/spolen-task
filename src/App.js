@@ -24,7 +24,7 @@ function App() {
                 <h1>Replace</h1>
               </div>
               <div className="bg-white w-32 h-20 p-5 container4 rounded-lg">
-                <h1>Comunity</h1>
+                <h1> Comunication</h1>
               </div>
               <div className="bg-white w-32 h-20 p-5 container5 rounded-lg">
                 <h1>Mantainance</h1>
@@ -33,14 +33,14 @@ function App() {
                 <h1>Payment</h1>
               </div>
               <div className="bg-white w-32 h-20 p-5 container7 rounded-lg">
-                <h1>Comunication</h1>
+                <h1>Comunity</h1>
               </div>
               <div className="bg-white w-60 container8 rounded-lg p-5">
                 <h1>
                   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod
                   et,i
                 </h1>
-                <h3 className=" mt-5 md:mt-20">Payuat</h3>
+                <h3 className=" mt-5 md:mt-20 bg-slate-400 p-5 rounded-md md:text-4xl">Payuat</h3>
               </div>
             </div>
           </div>
